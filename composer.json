@@ -1,0 +1,19 @@
+{
+    "name": "wcs/quete_composer",
+    "description": "Projet quête composer",
+    "authors": [
+        {
+            "name": "Becker",
+            "email": "mathieubecker86@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+
+    }
+    }
+}
+
